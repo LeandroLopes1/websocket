@@ -45,5 +45,7 @@ npm start
 Conecte o client:
 ```
 no navegador acesse a URL: http://localhost:3000
+para iniciar uma conversa, abra outra guia do seu navegador com a mesma URL.
+Outra opção é abrir em outro navegador da sua maquina.
 ```
 
