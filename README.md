@@ -4,7 +4,7 @@
 
 - [Sobre o desafio](#sobre)
 - [Requisitos técnicos](#requisitos)
-- [Tecnologias Utilizadas](#requisitos)
+- [Tecnologias utilizadas](#requisitos)
 - [Comandos para instalar na sua maquina](#instalação)
 
 
