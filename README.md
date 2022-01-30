@@ -29,7 +29,7 @@ Projeto desenvolvido com Socket-IO, NodeJS, Express, MongoDB, Javasript, HTML e 
 
 Clone o repositotório
 ```
-
+git@github.com:LeandroLopes1/websocket.git
 ```
 
 No terminal conecte o mongoDB
