@@ -15,7 +15,7 @@ Desenvolver um sistema de CHAT para conversas em grupo utilizando WEBSOCKET.
 # Requisitos
 
 Ao se conectar no app, será necessário informar um nome de usuário que será usado como
-identificação nas mensagens enviadas
+identificação nas mensagens enviadas.
 Todos usuários conectados podem enviar e ler mensagens de todas as pessoas conectadas
 Ao se conectar, será necessário carregar o histórico das últimas 30 mensagens trocadas
 através de uma API REST.
