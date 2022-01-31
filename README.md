@@ -23,7 +23,7 @@ As mensagens deverão ser armazenadas em um banco de dados da sua escolha.
 
 # Tecnologias
 
-Projeto desenvolvido com Socket-IO, NodeJS, Express, MongoDB, Javasript, HTML e CSS.
+Projeto desenvolvido com Socket.io, Node, Express, MongoDB, JavaScript, HTML e CSS.
 
 # Instalação
 
