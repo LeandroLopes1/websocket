@@ -38,7 +38,7 @@ sudo service mongod start
 ```
 Conecte o server:
 ```
-cd Voll/backend
+cd Voll/Back-End
 npm install
 npm start
 ```
